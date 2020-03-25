@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 
-![helix-logo](./images/helix_logo.png) <!-- this image is served from this content repository -->
+![helix-logo-new](./images/helix_logo.png) <!-- this image is served from this content repository -->
 
 # Content from GitHub - Henrik!
 
