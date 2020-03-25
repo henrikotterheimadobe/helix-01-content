@@ -17,7 +17,7 @@
 
 ![helix-logo](/images/helix_logo.png) <!-- this image is served from this content repository -->
 
-# Content from GitHub - Henrik!
+# Content from GitHub - Henrik - updated now!
 
 It works! hello_helix is up and running.
 
